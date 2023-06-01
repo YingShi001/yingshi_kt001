@@ -1,0 +1,9 @@
+\subsubsection usage Usage
+\verbatim
+<node name="sophon_robot" pkg="sophon_robot" type="sophon_robot">
+  <param name="kp" type="int" value="4636" />
+  <param name="ki" type="int" value="0" />
+  <param name="kd" type="int" value="1611" />
+</node>
+\endverbatim
+

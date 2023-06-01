@@ -1,0 +1,8 @@
+prefix=/data/third_ws/devel
+
+Name: nav_core
+Description: Description of nav_core
+Version: 1.17.2
+Cflags: -I/data/third_ws/src/navigation/nav_core/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs geometry_msgs tf2_ros costmap_2d

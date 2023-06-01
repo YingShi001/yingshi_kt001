@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  "/home/linaro/robot_ws/devel/include/sophon_robot/LaserAvoidanceConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/LaserFilterConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/LaserTrackingConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/LaserWarningConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/LineFollowConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/colorConfig.h"
+  "/home/linaro/robot_ws/devel/include/sophon_robot/pidConfig.h"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/LaserAvoidanceConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/LaserFilterConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/LaserTrackingConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/LaserWarningConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/LineFollowConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/colorConfig.py"
+  "/home/linaro/robot_ws/devel/lib/python3/dist-packages/sophon_robot/cfg/pidConfig.py"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserAvoidanceConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserAvoidanceConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserAvoidanceConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserFilterConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserFilterConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserFilterConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserTrackingConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserTrackingConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserTrackingConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserWarningConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserWarningConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LaserWarningConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LineFollowConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LineFollowConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/LineFollowConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/colorConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/colorConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/colorConfig.wikidoc"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/pidConfig-usage.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/pidConfig.dox"
+  "/home/linaro/robot_ws/devel/share/sophon_robot/docs/pidConfig.wikidoc"
+  "CMakeFiles/sophon_robot_gencfg"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang )
+  include(CMakeFiles/sophon_robot_gencfg.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

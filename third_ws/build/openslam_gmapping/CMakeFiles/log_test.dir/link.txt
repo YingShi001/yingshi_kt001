@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/log_test.dir/log/log_test.cpp.o  -o /data/third_ws/devel/lib/openslam_gmapping/log_test  -Wl,-rpath,/data/third_ws/devel/lib: /data/third_ws/devel/lib/liblog.so /data/third_ws/devel/lib/libsensor_range.so /data/third_ws/devel/lib/libsensor_odometry.so /data/third_ws/devel/lib/libsensor_base.so 

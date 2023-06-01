@@ -1,0 +1,7 @@
+set(sophon_robot_SETUP_PY_SETUP_MODULE "distutils.core")
+set(sophon_robot_SETUP_PY_VERSION "0.0.0")
+set(sophon_robot_SETUP_PY_SCRIPTS "")
+set(sophon_robot_SETUP_PY_PACKAGES "sophon_robot")
+set(sophon_robot_SETUP_PY_PACKAGE_DIRS "sophon_robot")
+set(sophon_robot_SETUP_PY_MODULES "")
+set(sophon_robot_SETUP_PY_MODULE_DIRS "")
